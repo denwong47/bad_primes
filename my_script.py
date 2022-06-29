@@ -1,4 +1,3 @@
-from tqdm import tqdm
 from timeit import timeit
 
 UPPER_LIMIT_TO_TEST = 1000000
